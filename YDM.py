@@ -100,10 +100,10 @@ class YDMHttp:
         return res.text
 
 def use_ydm(filename):
-    username = 'songsongsong'  # 用户名
-    password = '*hs19931221*'  # 密码
-    app_id = 6209  # 软件ID
-    app_key = '0f8f9bb71e494ae7a97fd877bb639075'  # 软件密钥
+    username = '********'  # 用户名
+    password = '********'  # 密码
+    app_id = ****  # 软件ID
+    app_key = '***************'  # 软件密钥
     code_type = 1004  # 验证码类型
     timeout = 60  # 超时时间，秒
     yundama = YDMHttp(username, password, app_id, app_key)  # 初始化
