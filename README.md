@@ -7,3 +7,8 @@
 也提供了将验证码保存至本地，手动打码这一选择。最终登录之后，获取知乎主页title列表并打印。
 那个zhihu_message.py文件为主程序，YDM.py为云打码接口且依赖于yundamaAPI.dll
 
+chrome60和webdriver2.33 还有yundamaAPI.dll我都放到自己的百度云盘了，这是链接：
+链接：https://pan.baidu.com/s/18aQsDdQPJ9n7XzJ7buCadQ 
+提取码：mwuy 
+
+
