@@ -15,8 +15,8 @@ from selenium import webdriver
 from dama import use_ydm
 
 
-user = '15894648760'
-pwd = '*hs19931221*'
+user = '**********'
+pwd = '***********'
 
 
 def main():
